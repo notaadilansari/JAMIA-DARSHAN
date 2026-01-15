@@ -98,12 +98,12 @@ GUIDELINES:
 	max_output_tokens=500,)
 	chat=client.chats.create(model="gemini-2.5-flash",config=config)
 	while True:
-		user_input=input("You(type 'quit' or 'exit' for returning to dashboard) : ").strip()
+		user_input=input("\nYou(type 'quit' or 'exit' for returning to dashboard) : ").strip()
 		if user_input.lower() in ['quit','exit']:
 			break
 		else:
 			response=chat.send_message(user_input)
-			print(f"\n🛜Gemini : {response.text}")
+			print(f"\n🛜Jamia Darshan : {response.text}")
 def view_attendence():
 	user_sem=int(input("Enter your sem(1-2) : "))
 	if user_sem==1:
