@@ -33,7 +33,7 @@ class user:
 		password =input("Choose Password : ")
 		all_users[username]={"password":password}
 		storage.save_users(all_users)
-		print("✅Regustration Successful.")
+		print("✅Registration Successful.")
 		return user(username,password)
 	@staticmethod
 	def login():
