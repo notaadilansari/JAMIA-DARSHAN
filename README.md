@@ -6,7 +6,7 @@
 
 ## 🎥 Project Intro
 
-![Jamia Darshan Intro](assets/jamia_darshan.png)
+![Jamia Darshan Intro](Contents/assets/jamia_darshan.png)
 
  *A glimpse into Jamia Darshan — where commands turn into conversations, and history speaks back.*
 ## 📌 Project Overview
