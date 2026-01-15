@@ -10,4 +10,4 @@ Inside the project folder, create a .env file:
 GEMINI_API_KEY=your_api_key_here
 
 4️⃣ Run the Project
-python jamia_darshan.py
+python Jamia_Darshan.py
