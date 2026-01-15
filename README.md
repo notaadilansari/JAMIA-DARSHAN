@@ -97,7 +97,7 @@ Jamia Darshan speaks as:
 ## **Team Members:**  
   - Aadil Ansari  
   - Ammar Husain  
-  - Afzal Ali  
+  - Ali Afzal  
   - Sadiya Parveen  
 
 ---
