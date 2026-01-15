@@ -9,23 +9,6 @@
 ![Jamia Darshan Intro](assets/jamia_darshan.png)
 
  *A glimpse into Jamia Darshan — where commands turn into conversations, and history speaks back.*
-
-## ⚙️ Setup Instructions
-
-1️⃣ Copy the Code of Jamia_Darshan and also open requirements.txt file in same folder 
-
-2️⃣ Install Required Libraries
-Just open your terminal and run "pip install -r requirements.txt" and then install genai by running "pip install google-genai python-dotenv" in your terminal 
-
-3️⃣ Create .env File
-
-Inside the project folder, create a .env file:
-GEMINI_API_KEY=your_api_key_here
-
-4️⃣ Run the Project
-python main.py
-
-
 ## 📌 Project Overview
 **Jamia Darshan** is a Python-based **CLI Chatbot** centered around *Jamia Millia Islamia*.  
 More than a utility, it is a **living narrator** — a wise observer who has walked Jamia’s lanes since **1920**.
